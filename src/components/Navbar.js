@@ -28,7 +28,7 @@ function Navbar()
     </div>
 
     <div class="navbar__s4">
-        <i class="fa-solid fa-bars"></i>
+        <i class="fa-solid fa-bars" style={{color : "black"}}></i>
     </div>
 
 

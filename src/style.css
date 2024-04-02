@@ -248,6 +248,7 @@ body{
     .categories{
         font-size: 8px;
         gap:5px;
+        align-items: center;
         }
 }
 
